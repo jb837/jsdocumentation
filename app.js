@@ -20,6 +20,7 @@
 // NB - check this section Regex literals
 // NB - tagged templates needs to be checked
 // NB - special characters in javascript strings - ie \n
+// NB - check falsy values again
 
 // comparing string literal vs string datatypes
 // comparing object literals
@@ -31,3 +32,6 @@
 // Control flow and Error Handling
 
 // if statement with only one statement
+// returning true or false from a function
+// covered switch statements
+//
