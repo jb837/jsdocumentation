@@ -36,3 +36,17 @@
 // returning true or false from a function
 // covered switch statements
 //
+
+
+try {
+    throw "myException";
+
+    console.test("something");
+}
+catch(e){
+    console.log("error caught " + e)
+
+}
+finally {
+    console.log("exiting")
+}
