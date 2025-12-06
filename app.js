@@ -35,18 +35,35 @@
 
 // returning true or false from a function
 // covered switch statements
-//
+
+//******************************** 
+// Loops and Iteration
+
+// NB - Number of selected options in a list
+
+// create a do while loop
+// test a for loop and a while loop
+// loop over an object with for in
+// loop through an array with for of
+// create a new object using Object.create();
+
+//**********************************
+// Numbers and Strings
+// Number type can be represented with integer values in different bases
+// also 3 symbolic values - Infinity, -Infinity and NaN
+// note - numeric seperator for very large numbers i.e. - underscore
+// Number object properties and methods
+// backticks allow a string to return to multiple lines
+// covered template literals already
 
 
-try {
-    throw "myException";
+//**********************************
+// Dates and Times
+// setDate methods and getDate methods - year-month-days-Thours-minutes-seconds-millisecondsZ
 
-    console.test("something");
-}
-catch(e){
-    console.log("error caught " + e)
+// NB - write a program to represent the remaining days in the year
 
-}
-finally {
-    console.log("exiting")
-}
+
+
+
+
